@@ -1,7 +1,7 @@
- file with 78 additions and 0 deletions.
- 78  
-worst fit algorithm
-@@ -0,0 +1,78 @@
+
+
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>
@@ -67,16 +67,3 @@ return 0;
 
 
 
-OUTPUT:
-ENTER THE NO PROCESS AND MEMORY :
- 4 5 212 417 112 426 100 500 200 300 600
-ENTER THE SIZE OF PROCESS
-ENTER THE SIZE OF MEMORY PARTION
-NO OF PROCESS CAN ACOMADATE :3
-
-MEMORY  PROCESS
-100     MEMORY NOT ALLOCATED
-500 <-->417
-200     MEMORY NOT ALLOCATED
-300 <-->112
-600 <-->212
